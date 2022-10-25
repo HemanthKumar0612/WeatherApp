@@ -1,2 +1,2 @@
 # WeatherApp
-Weather Forecast Website
+Weather Application
